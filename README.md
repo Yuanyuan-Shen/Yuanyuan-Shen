@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jane Shen.
 - 👀 I’m interested in artificial intelligence and developing machine learning and deep learning based computational models.
-- 🌱 I’m currently working as a Full Stack Engineer.
+- 🌱 I’m currently working as a Machine Learning Engineer.
 - 📫 You can reach me by sending an email to jane.yuanyuanshen@gmail.com.
 
 <!---
