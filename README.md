@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Jane Shen.
-- 👀 I’m interested in artificial intelligence and developing machine learning and deep learning based computational models.
-- 🌱 I’m currently working as a Machine Learning Engineer.
+- 👋 Hi, I’m a Data & AI enthusiast, with 6+ years' experience in developing AI models and solutions. 
+- 👀 I’m currently working as an AI/Machine Learning Engineer.
 - 📫 You can reach me by sending an email to jane.yuanyuanshen@gmail.com.
 
 <!---
